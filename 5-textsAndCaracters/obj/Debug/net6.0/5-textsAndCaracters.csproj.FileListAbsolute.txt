@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\bin\Debug\net6.0\5-textsAndCaracters.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\bin\Debug\net6.0\5-textsAndCaracters.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\bin\Debug\net6.0\5-textsAndCaracters.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\bin\Debug\net6.0\5-textsAndCaracters.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\bin\Debug\net6.0\5-textsAndCaracters.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\refint\5-textsAndCaracters.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\5-textsAndCaracters.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\5-textsAndCaracters\obj\Debug\net6.0\ref\5-textsAndCaracters.dll
