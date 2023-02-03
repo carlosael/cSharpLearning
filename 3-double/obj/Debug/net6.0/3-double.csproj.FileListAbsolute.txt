@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\bin\Debug\net6.0\3-double.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\bin\Debug\net6.0\3-double.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\bin\Debug\net6.0\3-double.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\bin\Debug\net6.0\3-double.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\bin\Debug\net6.0\3-double.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\refint\3-double.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\3-double.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\3-double\obj\Debug\net6.0\ref\3-double.dll

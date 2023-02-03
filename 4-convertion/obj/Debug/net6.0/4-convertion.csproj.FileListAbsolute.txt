@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\bin\Debug\net6.0\4-convertion.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\bin\Debug\net6.0\4-convertion.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\bin\Debug\net6.0\4-convertion.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\bin\Debug\net6.0\4-convertion.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\bin\Debug\net6.0\4-convertion.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\refint\4-convertion.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\4-convertion.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\4-convertion\obj\Debug\net6.0\ref\4-convertion.dll
