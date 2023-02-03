@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\bin\Debug\net6.0\p11-calcSavings2.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\bin\Debug\net6.0\p11-calcSavings2.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\bin\Debug\net6.0\p11-calcSavings2.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\bin\Debug\net6.0\p11-calcSavings2.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\bin\Debug\net6.0\p11-calcSavings2.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\refint\p11-calcSavings2.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\p11-calcSavings2.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p11-calcSavings2\obj\Debug\net6.0\ref\p11-calcSavings2.dll
