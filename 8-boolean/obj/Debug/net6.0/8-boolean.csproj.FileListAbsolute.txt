@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\bin\Debug\net6.0\8-boolean.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\bin\Debug\net6.0\8-boolean.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\bin\Debug\net6.0\8-boolean.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\bin\Debug\net6.0\8-boolean.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\bin\Debug\net6.0\8-boolean.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\refint\8-boolean.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\8-boolean.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\8-boolean\obj\Debug\net6.0\ref\8-boolean.dll
