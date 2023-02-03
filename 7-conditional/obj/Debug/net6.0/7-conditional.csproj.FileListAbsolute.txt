@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\bin\Debug\net6.0\7-conditional.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\bin\Debug\net6.0\7-conditional.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\bin\Debug\net6.0\7-conditional.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\bin\Debug\net6.0\7-conditional.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\bin\Debug\net6.0\7-conditional.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\refint\7-conditional.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\7-conditional.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\7-conditional\obj\Debug\net6.0\ref\7-conditional.dll

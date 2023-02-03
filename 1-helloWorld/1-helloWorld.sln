@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-convertion", "..\4-conver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-textsAndCaracters", "..\5-textsAndCaracters\5-textsAndCaracters.csproj", "{6643B200-13C3-4DD3-8C9F-8887AA900574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-variablesAttr", "..\6-variablesAttr\6-variablesAttr.csproj", "{9276F4F0-4122-45AC-BF35-208E85247254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-conditional", "..\7-conditional\7-conditional.csproj", "{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6643B200-13C3-4DD3-8C9F-8887AA900574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6643B200-13C3-4DD3-8C9F-8887AA900574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6643B200-13C3-4DD3-8C9F-8887AA900574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9276F4F0-4122-45AC-BF35-208E85247254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9276F4F0-4122-45AC-BF35-208E85247254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9276F4F0-4122-45AC-BF35-208E85247254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9276F4F0-4122-45AC-BF35-208E85247254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
