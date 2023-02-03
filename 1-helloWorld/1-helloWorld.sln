@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-conditional", "..\7-condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-boolean", "..\8-boolean\8-boolean.csproj", "{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9-calcSavings", "..\P9-calcSavings\P9-calcSavings.csproj", "{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
