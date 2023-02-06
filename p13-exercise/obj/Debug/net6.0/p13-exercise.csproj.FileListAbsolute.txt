@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\bin\Debug\net6.0\p13-exercise.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\bin\Debug\net6.0\p13-exercise.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\bin\Debug\net6.0\p13-exercise.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\bin\Debug\net6.0\p13-exercise.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\bin\Debug\net6.0\p13-exercise.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\refint\p13-exercise.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\p13-exercise.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-exercise\obj\Debug\net6.0\ref\p13-exercise.dll
