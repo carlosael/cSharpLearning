@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\bin\Debug\net6.0\p12-longTermInvestments.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\bin\Debug\net6.0\p12-longTermInvestments.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\bin\Debug\net6.0\p12-longTermInvestments.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\bin\Debug\net6.0\p12-longTermInvestments.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\bin\Debug\net6.0\p12-longTermInvestments.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\refint\p12-longTermInvestments.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\p12-longTermInvestments.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p12-longTermInvestments\obj\Debug\net6.0\ref\p12-longTermInvestments.dll

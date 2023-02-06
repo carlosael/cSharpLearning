@@ -3,25 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-helloWorld", "1-helloWorld\1-helloWorld.csproj", "{164086D6-8919-45F7-B539-C453B09151B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-helloWorld", "1-helloWorld\1-helloWorld.csproj", "{164086D6-8919-45F7-B539-C453B09151B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-creatingVariables", "2-creatingVariables\2-creatingVariables.csproj", "{7040C5AF-6B38-4B74-A58C-282DE717C275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-double", "..\3-double\3-double.csproj", "{EDDCBFFA-40DA-4B46-84CD-3BD30A154FEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-double", "..\3-double\3-double.csproj", "{EDDCBFFA-40DA-4B46-84CD-3BD30A154FEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-convertion", "..\4-convertion\4-convertion.csproj", "{A6E8F70C-0969-4320-BA50-02DA66DB0E3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-convertion", "..\4-convertion\4-convertion.csproj", "{A6E8F70C-0969-4320-BA50-02DA66DB0E3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-textsAndCaracters", "..\5-textsAndCaracters\5-textsAndCaracters.csproj", "{6643B200-13C3-4DD3-8C9F-8887AA900574}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-textsAndCaracters", "..\5-textsAndCaracters\5-textsAndCaracters.csproj", "{6643B200-13C3-4DD3-8C9F-8887AA900574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-variablesAttr", "..\6-variablesAttr\6-variablesAttr.csproj", "{9276F4F0-4122-45AC-BF35-208E85247254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-variablesAttr", "..\6-variablesAttr\6-variablesAttr.csproj", "{9276F4F0-4122-45AC-BF35-208E85247254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-conditional", "..\7-conditional\7-conditional.csproj", "{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-conditional", "..\7-conditional\7-conditional.csproj", "{FCE3D32C-9AEF-4407-862A-6AC9C2517C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-boolean", "..\8-boolean\8-boolean.csproj", "{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-boolean", "..\8-boolean\8-boolean.csproj", "{B1912F93-CFAC-4C41-BE2A-FE6B2C8EE249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9-calcSavings", "..\P9-calcSavings\P9-calcSavings.csproj", "{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P9-calcSavings", "..\P9-calcSavings\P9-calcSavings.csproj", "{A29A5B6E-D68C-4DD0-AD34-17B2C08D96B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11-calcSavings2", "..\p11-calcSavings2\p11-calcSavings2.csproj", "{24F71324-FF3E-4E94-95C1-DE1C3F52BACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p11-calcSavings2", "..\p11-calcSavings2\p11-calcSavings2.csproj", "{24F71324-FF3E-4E94-95C1-DE1C3F52BACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p12-longTermInvestments", "..\p12-longTermInvestments\p12-longTermInvestments.csproj", "{92EFCF4C-ABCA-4A1C-B1DA-D8C5007FC23A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{24F71324-FF3E-4E94-95C1-DE1C3F52BACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24F71324-FF3E-4E94-95C1-DE1C3F52BACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24F71324-FF3E-4E94-95C1-DE1C3F52BACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EFCF4C-ABCA-4A1C-B1DA-D8C5007FC23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EFCF4C-ABCA-4A1C-B1DA-D8C5007FC23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EFCF4C-ABCA-4A1C-B1DA-D8C5007FC23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EFCF4C-ABCA-4A1C-B1DA-D8C5007FC23A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

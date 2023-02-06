@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\3-double\\3-double.csproj",
-      "projectName": "2-creatingVariables",
-      "projectPath": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\3-double\\3-double.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\p12-longTermInvestments\\p12-longTermInvestments.csproj",
+      "projectName": "p12-longTermInvestments",
+      "projectPath": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\p12-longTermInvestments\\p12-longTermInvestments.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\1-helloWorld\\2-creatingVariables\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Desktop\\C#\\cSharpLearning\\p12-longTermInvestments\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
