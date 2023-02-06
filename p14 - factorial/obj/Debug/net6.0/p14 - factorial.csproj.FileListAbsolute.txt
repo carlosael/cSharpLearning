@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\bin\Debug\net6.0\p14 - factorial.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\bin\Debug\net6.0\p14 - factorial.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\bin\Debug\net6.0\p14 - factorial.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\bin\Debug\net6.0\p14 - factorial.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\bin\Debug\net6.0\p14 - factorial.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\refint\p14 - factorial.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\p14 - factorial.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p14 - factorial\obj\Debug\net6.0\ref\p14 - factorial.dll

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13-forChaining", "..\p13-f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13-exercise", "..\p13-exercise\p13-exercise.csproj", "{16E46E64-EC89-4AF8-999A-84626C6B1407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p14 - factorial", "..\p14 - factorial\p14 - factorial.csproj", "{A0AEC7E1-B8F0-4193-B186-133FA3BEA505}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{16E46E64-EC89-4AF8-999A-84626C6B1407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E46E64-EC89-4AF8-999A-84626C6B1407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E46E64-EC89-4AF8-999A-84626C6B1407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AEC7E1-B8F0-4193-B186-133FA3BEA505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AEC7E1-B8F0-4193-B186-133FA3BEA505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AEC7E1-B8F0-4193-B186-133FA3BEA505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AEC7E1-B8F0-4193-B186-133FA3BEA505}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
