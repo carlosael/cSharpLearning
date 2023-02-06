@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.AssemblyInfo.cs
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\bin\Debug\net6.0\p13-forChaining.exe
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\bin\Debug\net6.0\p13-forChaining.deps.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\bin\Debug\net6.0\p13-forChaining.runtimeconfig.json
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\bin\Debug\net6.0\p13-forChaining.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\bin\Debug\net6.0\p13-forChaining.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\refint\p13-forChaining.dll
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.pdb
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\p13-forChaining.genruntimeconfig.cache
+C:\Users\carlo\Desktop\C#\cSharpLearning\p13-forChaining\obj\Debug\net6.0\ref\p13-forChaining.dll
